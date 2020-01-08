@@ -13,7 +13,7 @@ Executar
 Efetuar a Execuçao do código-fonte:
 
 
-$ python3 damanta.py
+       $ python3 damanta.py
 
 
 ----
@@ -29,4 +29,4 @@ Fazer calculos usando todos os sinais e numeros
 
 Exemplos
 --------
-1 + 1 = 2  
+          1 + 1 = 2  
