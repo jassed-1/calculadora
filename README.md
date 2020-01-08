@@ -7,10 +7,10 @@ Uma simples calculadora de todos os sinais
 
 ----
 
-Compilação
+Executar
 ----------
 
-Efetuar a compilação do código-fonte:
+Efetuar a Execuçao do código-fonte:
 
 
 $ python3 damanta.py
